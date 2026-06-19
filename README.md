@@ -77,27 +77,25 @@ The analysis focused on:
 
 ## Key Findings
 
-* The dataset recorded **383,659 layoffs** across **1,628 companies** worldwide between 2020 and 2023.
+* The dataset recorded 383,659 layoffs across 1,628 companies worldwide between 2020 and 2023.
 
-* Layoffs peaked in **January 2023**, with **84,714 employees** affected in a single month.
+* Layoffs peaked in January 2023, with 84,714 employees affected in a single month.
 
-* The **United States** accounted for **256,559 layoffs**, representing **66.9%** of all reported layoffs globally, while **India** ranked second with **35,993 layoffs (9.4%)**.
+* The United States accounted for 256,559 layoffs, representing 66.9% of all reported layoffs globally, while India ranked second with 35,993 layoffs (9.4%).
 
-* Global layoffs surged in **2022**, reaching **160,661 employees**, more than double the total recorded in 2020.
+* Global layoffs surged in 2022, reaching 160,661 employees, more than double the total recorded in 2020.
 
-* The **Consumer** and **Retail** industries were the most affected sectors, reporting **45,182** and **43,613 layoffs**, respectively.
+* The Consumer and Retail industries were the most affected sectors, reporting 45,182 and 43,613 layoffs, respectively.
 
-* The **"Other"** industry category experienced the largest year-over-year increase in layoffs, rising by **22,216 employees** between 2022 and 2023. Retail recorded the highest industry-specific increase in 2022, with layoffs increasing by **19,826 employees** year over year.
+* Post-IPO companies accounted for 204,132 layoffs across 286 organizations, averaging 714 layoffs per company, significantly higher than early-stage startups.
 
-* **Post-IPO** companies accounted for **204,132 layoffs** across **286 organizations**, averaging **714 layoffs per company**, significantly higher than early-stage startups.
+* Amazon, Google, Meta, Salesforce, and Microsoft ranked among the companies with the highest total layoffs during the analysis period.
 
-* **Amazon, Google, Meta, Salesforce, and Microsoft** ranked among the companies with the highest total layoffs during the analysis period.
+* 116 companies reported laying off 100% of their workforce, indicating complete shutdowns or business closures.
 
-* **116 companies** reported laying off **100% of their workforce**, indicating complete shutdowns or business closures.
+* Several companies, including Loft, Swiggy, Uber, and WeWork, conducted multiple rounds of layoffs, suggesting prolonged restructuring efforts rather than one-time cost-cutting measures.
 
-* Several companies, including **Loft, Swiggy, Uber, and WeWork**, conducted multiple rounds of layoffs, suggesting prolonged restructuring efforts rather than one-time cost-cutting measures.
-
-* Industry layoff peaks were concentrated in **2022 and 2023**, with **Retail, Consumer, Transportation, Healthcare, and Finance** experiencing their highest workforce reductions during this period.
+* Industry layoff peaks were concentrated in 2022 and 2023, with Retail, Consumer, Transportation, Healthcare, and Finance experiencing their highest workforce reductions during this period.
 
 ---
 ---
